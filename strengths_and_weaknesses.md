@@ -1,2 +1,3 @@
 # Strengths
+* Collaboration
 # Weaknesses
